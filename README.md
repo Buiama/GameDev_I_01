@@ -10,7 +10,7 @@ Also, an item (yellow hexagon) can randomly appear on the map to stop time compl
 A function for speeding up the character's movement has also been created
 
 
-Control Instructions:
+# Control Instructions:
 
 Player movement: WASD / Arrow keys
 
@@ -22,7 +22,8 @@ To fire freezing projectiles press E / Rightft mouse button
 
 
 
-Links to materials used:
+
+# Links to materials used:
 
 https://ericaofanderson.tumblr.com/post/165047659476/slow-down-you-can-get-this-gif-as-a-looping-1080p
 
