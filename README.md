@@ -11,10 +11,15 @@ A function for speeding up the character's movement has also been created
 
 
 Control Instructions:
+
 Player movement: WASD / Arrow keys
+
 Player acceleration: Shift
-To fire regular projectiles press the Space / Left mouse button.
-To fire freezing projectiles press E / Rightft mouse button.
+
+To fire regular projectiles press the Space / Left mouse button
+
+To fire freezing projectiles press E / Rightft mouse button
+
 
 
 Links to materials used:
