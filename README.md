@@ -19,8 +19,13 @@ To fire freezing projectiles press E / Rightft mouse button.
 
 Links to materials used:
 https://ericaofanderson.tumblr.com/post/165047659476/slow-down-you-can-get-this-gif-as-a-looping-1080p
+
 https://i.pinimg.com/originals/1e/64/c3/1e64c3289a248160c26a3b57b221e282.png
+
 https://www.youtube.com/watch?v=ZkM8-iXe2-o&ab_channel=BathSpaUniversityAcademicCenterRAK%2CUAE
+
 https://www.youtube.com/watch?v=r6mT8pBn0-k&ab_channel=TheSleepyKoala
+
 https://youtu.be/4c8uULOEUjs?si=5blRPv_sN0zCWcjy
+
 https://unity.com
